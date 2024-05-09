@@ -1,1 +1,29 @@
-# Large-Language-Models-LLMs-NLP
+# Large Language Models (LLMs) & NLP
+
+Dive deeper into how computers understand and create language, and learn how to build a custom chatbot using unsupervised machine learning, prompt engineering, and retrieval augmented generation.
+
+We'll start with a high-level overview of the types of LLMs, the differences between them, and how best to account for their strengths and weaknesses. Then we'll get into the internal details, including natural language processing (NLP) techniques like tokenization, as well as modern transformer architectures and attention mechanisms. Finally, we'll build a practical LLM application that combines an LLM with a custom dataset
+
+
+What you'll learn:
+
+1. NLP with KerasNLP
+2. How to do Text classification  with a pretrained model and fine-tuning / transfer learning
+3. How to do object detection with a pretrained model and fine-tuning / transfer learning
+4. How to generate Txt with in KerasNLP
+
+## The Practicals
+
+| Topic 💥 | Description 📘|
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Lesson 1 - Introduction to LLMs <br /> <br /> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1q2TcaoXqxNz92bAQaBisomZUUk1VRqY6) | This lesson covers the types of LLMs, an intuitive understanding of their limitations and capabilities, inference and decoding hyperparameters, and strategies for effective prompt engineering.|
+| Lesson 2 - NLP Fundamentals <br /> <br /> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aYlso-T-9DkswERrGl3omrR-n2zvczOs) | This lesson covers the essential Natural Language Processing topics needed to use the latest LLM technology. You will learn the basics of NLP and then dive into text encoding and text generation. |
+| Lesson 3 - Transformers and Attention Mechanism <br /> <br /> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1q2TcaoXqxNz92bAQaBisomZUUk1VRqY6) | In this lesson, you will open up the black box of transformer architectures and learn about the attention mechanisms and other components that make these powerful models possible. |
+| Lesson 4 - Retrieval Augmented Generation <br /> <br /> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IclGikCS4g870I59vEGvNXFJZoNXkcGP) | In this lesson, we will learn how to create a custom Q&A bot powered by Google AI! Along the way, you'll learn how Google AI works and how to leverage its powerful language processing capabilities.|
+| Lesson 5 - Build Custom Datasets for LLMs <br /> <br /> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jN-AksZQr7lBDJi5Q7Y5ah9fTY1vMv2q) | In this lesson, you will learn how to construct a relevant, quality dataset for fine-tuning large language models and performing retrieval augmented generation.|
+| Lesson 6 - Project: Build Your Own Custom Chatbot <br /> <br /> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Uulic4so-RHJfpFaCzbnc1cs1QymtRkv) | For this project, you will use everything you learned in this course to create a custom chatbot using a dataset of your choice.|
+
+This repository contains the practical and workshop notebooks for the x Workshop
+2024, held at the y, , Africa.
+
+See []() for more details.
