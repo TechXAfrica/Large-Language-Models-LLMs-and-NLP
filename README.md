@@ -23,6 +23,7 @@ What you'll learn:
 | Lesson 4 - Retrieval Augmented Generation <br /> <br /> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IclGikCS4g870I59vEGvNXFJZoNXkcGP) | In this lesson, we will learn how to create a custom Q&A bot powered by Google AI! Along the way, you'll learn how Google AI works and how to leverage its powerful language processing capabilities.|
 | Lesson 5 - Build Custom Datasets for LLMs <br /> <br /> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jN-AksZQr7lBDJi5Q7Y5ah9fTY1vMv2q) | In this lesson, you will learn how to construct a relevant, quality dataset for fine-tuning large language models and performing retrieval augmented generation.|
 | Lesson 6 - Project: Build Your Own Custom Chatbot <br /> <br /> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Uulic4so-RHJfpFaCzbnc1cs1QymtRkv) | For this project, you will use everything you learned in this course to create a custom chatbot using a dataset of your choice.|
+| Lesson 6 - Building Agentic RAG with LlamaIndex <br /> <br /> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qmtcGVEQR-GjDZVv37EHQ0jldUINsXIq) | Building Agentic RAG with LlamaIndex |
 
 This repository contains the practical and workshop notebooks for the x Workshop
 2024, held at the y, , Africa.
